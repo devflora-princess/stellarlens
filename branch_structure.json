@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-89-add-previous-page-size-controls-to-the-events",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-89-add-previous-page-size-controls-to-the-events": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-89-add-previous-page-size-controls-to-the-events",
+    "origin"
+  ]
+}
